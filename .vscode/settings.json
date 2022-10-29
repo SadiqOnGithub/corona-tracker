@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true
+  // "prettier.printWidth": 800,
+  // "prettier.bracketSpacing": false,
+  // "html.format.wrapLineLength": 800,
+  // "prettier.proseWrap": "never",
+  // "editor.wordWrapColumn": 800,
+  // "html.format.wrapAttributes": "force-aligned",
+  // "html.completion.attributeDefaultValue": "singlequotes"
+  // "editor.wordWrap": "on"
+}
